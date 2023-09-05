@@ -1,0 +1,14 @@
+Let us now discuss the 4 pillars of OOPs:
+
+Pillar 1: Abstraction
+Data Abstraction is the property by virtue of which only the essential details are displayed to the user.
+
+Pillar 2: Encapsulation
+It is defined as the wrapping up of data under a single unit. It is the mechanism that binds together the code and the data it manipulates.
+In encapsulation, the data in a class is hidden from other classes, which is similar to what data-hiding does. So, the terms “encapsulation” and “data-hiding” are used interchangeably.
+
+Pillar 3: Inheritance 
+ It is the mechanism in Java by which one class is allowed to inherit the features (fields and methods) of another class. We are achieving inheritance by using extends keyword. Inheritance is also known as “is-a” relationship.
+
+Pillar 4: Polymorphism
+The ability to appear in many forms is called polymorphism.
